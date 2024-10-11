@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashank-fq
 - 👀 I’m interested in new tech
-- 🌱 I’m currently learning JavaScript(beginner)
+- 🌱 I’m currently learning C(beginner)
 - 📫 How to reach me clg.shashank@gmail.com
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: The initial version was even called “Mocha” before it became JavaScript.
