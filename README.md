@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii-1-animated.svg" width="460" alt="Shashank Shankar"/>
+<img src="./ascii.svg" width="460" alt="Shashank Shankar"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
@@ -33,12 +33,7 @@ Projects will be added here as I build and publish them.
 
 <img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
-<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
-
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
-
-
