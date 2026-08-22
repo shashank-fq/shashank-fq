@@ -1,98 +1,61 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shashank....;Nice+to+meet+you!&center=true&size=25">
-  </a>
-</h1>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D9AA&center=true&vCenter=true&width=500&lines=Solving+problems+with+C%2B%2B+%F0%9F%9A%80;C%2B%2B+%7C+Java+%7C+JavaScript;Learning+DSA+one+problem+at+a+time+%F0%9F%A7%A9;Exploring+AI%2FML+%26+Full+Stack!)](https://git.io/typing-svg)
+<img src="./ascii.svg" width="460" alt="Shashank Shankar"/>
+
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+
+[github.com/shashank-fq](https://github.com/shashank-fq) &nbsp;·&nbsp;
+[instagram](https://www.instagram.com/shashank.fq/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/shashank-shankar-a18a5431a/) &nbsp;·&nbsp;
+[email](mailto:shashank.fq@gmail.com)
 
 </div>
 
----
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-## 👨‍💻 About Me
+> CS student at Bangalore Institute of Technology.<br>
+> Building useful things while finding my way through software.
 
-- 👋 Hi, I’m @shashank-fq
-- 👀 I’m interested in new tech
-- 🚩 my Leetcode https://leetcode.com/u/clgshashank/
-- 🌱 I’m currently learning python backend with Fast api
-- 📫 How to reach me clg.shashank@gmail.com
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact: The initial version was called “Mocha” before becoming JavaScript.
+I am learning by building, breaking, and improving small projects.<br>
 
-### ⚡ Fun Fact
-I enjoy solving coding challenges and turning ideas into real-world solutions.
 
-📫 **Let's connect and grow together!**
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
----
+<samp>python &nbsp; C++ &nbsp; javascript &nbsp; sql &nbsp; mysql &nbsp; websockets &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; alembic &nbsp; github actions &nbsp; java</samp>
 
-## ⚙️ Tech Stack
+<img src="./hd-projects.svg" width="620" alt="projects"/>
 
-### Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+Projects will be added here as I build and publish them.
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-
----
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=shashank-fq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=600)
-
-<br/>
-
-![](https://streak-stats.demolab.com?user=shashank-fq&theme=dark&hide_border=false&cache_seconds=600)
-
-<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashank-fq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=600)
----
-
-## 🏆 GitHub Trophies
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=shashank-fq&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6)
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
 
----
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
-## 📈 Contribution Graph
+Every graphic here is generated, not embedded from anyone else's server.<br>
+`ascii.svg` is a photo pushed through a character ramp by<br>
+[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
+these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
 
-<div align="center">
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
 
-[![Shashank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shashank-fq&bg_color=0d1117&color=00d9aa&line=00d9aa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64. That isn't only for looks: the<br>
+portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
+default monospace is narrower would otherwise see it squeezed.
 
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-shankar-a18a5431a/)
-[![Gmail](https://img.shields.io/badge/Gmail-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank.fq@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashank-fq)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=shashank-fq&icon=0&color=0)](https://visitcount.itsvg.in)
-
-*" You can’t go back and change the beginning, but you can start where you are and change the ending."* 
-
-</div>
+Language totals cover public repositories only. `year.svg` uses the portrait's<br>
+character ramp: `:` `+` `#` `@`, quiet to loud.
